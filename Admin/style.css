@@ -1,0 +1,31 @@
+.quaza_div{
+
+background-color: red;
+padding: 5px;
+height: 200px;
+width: 300px;
+margin-left:10px;
+margin-right:10px;
+
+
+}
+
+body{
+
+        color: blue;
+        background-color: red;
+    }
+
+.info{
+
+
+        border: 5px solid black;
+        width: 25%;
+        height:25%;
+        position: relative;
+        top: 200px;
+        left: 550px;
+        padding:10px;
+
+
+    }
